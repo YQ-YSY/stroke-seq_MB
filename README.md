@@ -18,8 +18,8 @@
 您也可以直接给我发邮件 YQ-YSY@163.com ，我会回复邮件发送给您。<br>
 
 天翼云盘：（速度快，需要注册用户才能下载，微信一扫即可）<br>
-[https://cloud.189.cn/web/share?code=vaiUjmMfIbme](https://cloud.189.cn/web/share?code=vaiUjmMfIbme)<br>
-访问码：u0x2<br>
+[https://cloud.189.cn/t/uuQvUzIrMRjm](https://cloud.189.cn/t/uuQvUzIrMRjm)<br>
+访问码：3igx<br>
 
 坚果云：（需要注册用户才能下载）<br>
 [https://www.jianguoyun.com/p/DWTYceUQgvjVCBjN5bQFIAA](https://www.jianguoyun.com/p/DWTYceUQgvjVCBjN5bQFIAA)<br>
