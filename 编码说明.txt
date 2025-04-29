@@ -1,35 +1,28 @@
-单手笔顺输入法码表 one-hand_code 3.0 版
-https://gitee.com/yq-ysy/one-hand_code
-因国内访问 github 不畅，且操作烦琐，本版以后弃用 github
-https://github.com/YQ-YSY/stroke-seq_MB
-
+单手笔顺输入法码表 one-hand_code 3.1 版
 ======
+国内码表_下载地址： https://gitee.com/yq-ysy/one-hand_code
+国外码表_下载地址： https://github.com/YQ-YSY/stroke-seq_MB
+
 提示
 ------
 此处提供的仅仅是“码表”，共录入20988个汉字，54万关键词库，192万常用词汇短语，160万扩展分类词库。
 单手笔顺输入法包含三层编码：精简码、六全码、笔顺码。欢迎程序员以此开发输入法软件。
-支持Windows及Linux系统的“单手笔顺输入法（3.0版）软件”下载地址列表请参阅：
-https://gitee.com/yq-ysy/one-hand_-rime
-https://github.com/YQ-YSY/one-hand_Rime
+支持Windows及Linux系统的“单手笔顺输入法（3.1版）软件”下载地址列表请参阅：
+国内软件_下载地址： https://gitee.com/yq-ysy/one-hand_-rime
+国外软件_下载地址： https://github.com/YQ-YSY/one-hand_Rime
     
-码表下载地址（请网络搜索“单手笔顺输入法3.0版下载”）
+码表下载_各大网盘下载_地址列表
 ------
-以下是“单手笔顺输入法（3.0版）码表.zip（125M）”各大网盘下载地址：
+以下是“单手笔顺输入法（3.1版）码表.zip（125M）”各大网盘下载地址：
 您也可以直接给我发邮件 YQ-YSY@163.com ，我会回复邮件发送给您。
 
-天翼云盘：（速度快，需要注册用户才能下载，微信一扫即可）  
-https://cloud.189.cn/t/uuQvUzIrMRjm
-访问码：3igx
-
-坚果云：（需要注册用户才能下载）  
-https://www.jianguoyun.com/p/DWTYceUQgvjVCBjN5bQFIAA
-
-百度云：（速度慢，需要注册用户且安装客户端才能下载）
-https://pan.baidu.com/s/17IPOjZMQf8fHh0wsuICorg?pwd=1j2o
-提取码：1j2o
-
-腾讯微云：（速度慢，需要注册用户才能下载）  
-https://share.weiyun.com/iN9kjTzn
+天翼云盘： https://cloud.189.cn/web/share?code=qqMfUnquuMfy
+访问码： 9pjj
+百度网盘： https://pan.baidu.com/s/183NEH_5Aj3EKHZ9630TWUw?pwd=5x2c
+提取码： 5x2c
+夸克网盘:  https://pan.quark.cn/s/676c91cfce9e
+坚果云： https://www.jianguoyun.com/p/DQ67OOsQgvjVCBjO6fUFIAA
+腾讯微云： https://share.weiyun.com/2oNHIBiJ
 
 
 开发说明
