@@ -1,6 +1,6 @@
 单手笔顺输入法码表 one-hand_code 3.1 版
 ======
-国内码表_下载地址： https://gitee.com/yq-ysy/one-hand_code
+国内码表_下载地址： https://gitee.com/yq-ysy/one-hand_mb
 国外码表_下载地址： https://github.com/YQ-YSY/stroke-seq_MB
 
 提示
